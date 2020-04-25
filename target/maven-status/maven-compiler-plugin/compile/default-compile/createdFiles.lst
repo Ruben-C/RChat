@@ -1,0 +1,9 @@
+org\rcbox\rchat\chatroom\StaffChatroom.class
+org\rcbox\rchat\Util.class
+org\rcbox\rchat\chatroom\GlobalChatroom.class
+org\rcbox\rchat\Rchat.class
+org\rcbox\rchat\chatroom\LocalChatroom.class
+org\rcbox\rchat\events\ChatroomEvent.class
+org\rcbox\rchat\handlers\PlayerChatHandler.class
+org\rcbox\rchat\chatroom\BaseChatroom.class
+org\rcbox\rchat\events\SendingMessageEvent.class
