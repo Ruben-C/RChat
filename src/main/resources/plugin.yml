@@ -1,8 +1,9 @@
-name: Rchat
+name: RChat
 version: ${project.version}
 main: org.rcbox.rchat.Rchat
 api-version: 1.13
-load: STARTUP
+
+depend: [Vault]
 
 commands:
   g:
